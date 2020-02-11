@@ -8,7 +8,7 @@ There are a large number of fan works on GitHub, mainly implementations of the D
 
 ## Official Specifications
 
-* [DCPU-16](dcpu16.txt) - 16bit CPU.
+* [DCPU-16](dcpu16(1.7).txt) - 16bit CPU.
 * [LEM1802](lem1802.txt) - 128x96 pixel color display.
 * [SPED-3](sped3.txt) - 3D vector display.
 * [M35FD](m35fd.txt) - Floppy disk drive.
